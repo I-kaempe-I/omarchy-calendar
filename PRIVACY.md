@@ -1,0 +1,1 @@
+Omarchy Calendar is a personal, local desktop widget. It connects to your Google Calendar via OAuth to display events locally on your machine. No personal calendar data is ever collected, stored, or transmitted to any third-party servers.
